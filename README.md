@@ -1,6 +1,8 @@
 # PyAi-SelfDrivingCar
 Repo for a Plural Sight project for Machine Learning with Pytorch
 
+![Car Driving Example](ScreenCaps/SelfDrivingCar-01.png)
+
 # Project Dependencies
 
 $ sudo python3 -m ensurepip
